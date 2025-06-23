@@ -1,0 +1,38 @@
+@import url(reset.css);
+@import url(font.css);
+@import url(slick.css);
+@import url(animate.css);
+@import url(aos.css);
+@import url(header.css);
+@import url(footer.css);
+@import url(main.css);
+@import url(media.css);
+
+
+/* variable */
+
+:root{
+    /* color */
+    --red:#FF0000;
+    --white:#FFFFFF;
+    --black:#000000;
+
+
+    /* font */
+    --proxima:"Proxima-Nova", sans-serif;
+    --proxima-reg:"Proxima-Nova-reg", sans-serif;
+    --lovelace:"Lovelace-Text", sans-serif;
+    --monument:"Monument-Extended", sans-serif;
+    --mont-reg:"MontserratReg", sans-serif;
+    --mont-light:"MontserratLight", sans-serif;
+
+    /* font-size */
+    --title:55px;
+    --table:24px;
+    --menu:18px;
+    --button:18px;
+}
+
+
+  
+
