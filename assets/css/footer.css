@@ -98,7 +98,7 @@
 }
 
 .footer-contacts-line a p {
-    font-family: var(--lovelace);
+    font-family: var(--mont-light);
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
